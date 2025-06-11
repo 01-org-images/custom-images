@@ -1,2 +1,3 @@
 vm:
-  use: 01-org-images-t34
+  use:
+    name: 01-org-images-t34
