@@ -10,4 +10,4 @@ jobs:
       name: "Use custom image 2305-image4"
       vm:
         use:
-          name: 01-org-images-t35
+          name: 01-org-images-t36
